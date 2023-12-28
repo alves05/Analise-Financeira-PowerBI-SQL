@@ -1,0 +1,250 @@
+﻿Caixa e Equivalentes de Caixa;23239150.00;19679743.00;10033967.00;1.01.01.01;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Aplicações Financeiras;1245354.00;0.00;0.00;1.01.01.02;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Contas a Receber;19877408.00;14001211.00;11136622.00;1.01.01.03;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Estoques;26542009.00;17586744.00;13439591.00;1.01.02.01;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ativos Biológicos;7420848.00;5115720.00;3906004.00;1.01.02.02;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Tributos a Recuperar;3204923.00;2849898.00;2351152.00;1.01.04.01;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Outros Ativos Circulantes;2396270.00;1303983.00;1057038.00;1.01.04.02;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ativos Biológicos RLP;2245019.00;1778565.00;1382559.00;1.02.01.01;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Tributos Diferidos RLP;1730122.00;1590194.00;1506129.00;1.02.01.02;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Créditos com Partes Relacionadas RLP;417702.00;382019.00;275178.00;1.02.01.03;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Outros Ativos Não Circulantes RLP;9323440.00;9682377.00;7933469.00;1.02.01.04;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Investimentos;243190.00;171096.00;93633.00;1.02.02.01;Investimentos;1.02.02;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Imobilizado;64875217.00;52958214.00;42673341.00;1.02.03.01;Imobilizado;1.02.03;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Intangível;44348464.00;36702042.00;30550704.00;1.02.04.01;Intangível;1.02.04;Ativo Não Circulante;1.02;Ativo;1.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Obrigações Sociais e Trabalhistas;6963119.00;5677401.00;4051824.00;2.01.01.01;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Fornecedores Nacionais;31157221.00;22711154.00;16403085.00;2.01.03.02;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Fornecedores Estrangeiros;1747954.00;1587288.00;1047221.00;2.01.03.03;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Obrigações Fiscais Federais;1273072.00;514298.00;606795.00;2.01.02.02;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Obrigações Fiscais Estaduais;451937.00;362925.00;333174.00;2.01.02.03;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Obrigações Fiscais Municipais;7982.00;5830.00;3671.00;2.01.02.04;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Empréstimos e Financiamentos;11914284.00;4562101.00;2078899.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Outros;4958247.00;5414234.00;3933023.00;2.01.05.02;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Provisões;1338422.00;0.00;0.00;2.01.05.03;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Empréstimos e Financiamentos RLP;80603870.00;61344604.00;50949144.00;2.02.01.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Outras Obrigações;10992923.00;10477629.00;9041077.00;2.02.02.01;Outras Obrigações;2.02.02;Passivo Não Circulante;2.02;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Imposto de Renda e Contribuição Social Diferidos;6573946.00;6186715.00;4093599.00;2.02.03.01;Tributos;2.02.03;Passivo Não Circulante;2.02;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1329419.00;1413438.00;1315826.00;2.02.04.01;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Capital Social Realizado;23576206.00;23576206.00;23576206.00;2.03.01.01;Capital Social Realizado;2.03.01;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ágio na Emissão de Ações;211879.00;211879.00;211879.00;2.03.02.01;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Transações de Capital;-628199.00;-679054.00;-490533.00;2.03.02.02;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Opções de Ações;30464.00;32262.00;44947.00;2.03.02.03;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Reservas de Reavaliação;43957.00;49430.00;54374.00;2.03.02.10;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Reserva Legal;2028293.00;1003965.00;774049.00;2.03.03.01;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Dividendo Adicional Proposto;0.00;1419037.00;0.00;2.03.03.04;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ações em Tesouraria;-3037838.00;-303565.00;-605722.00;2.03.02.05;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Reserva Estatutária para Investimento;11457300.00;4743294.00;4446449.00;2.03.03.05;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ajustes de Avaliação Patrimonial;334646.00;-29269.00;7188.00;2.03.04.03;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Ajustes Acumulados de Conversão;10102584.00;10095137.00;1618129.00;2.03.04.04;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Outros Resultados Abrangentes;0.00;0.00;0.00;2.03.04.05;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Participação dos Acionistas Não Controladores;3677428.00;3424867.00;2845083.00;2.03.04.06;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Receita de Venda de Bens;350695561.00;270204212.00;204523575.00;3.01.01.01;Receita de Venda de Bens e/ou Serviços;3.01.01;RECEITA;3.01;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Custo dos Bens Vendidos;-284510576.00;-224985889.00;-172577224.00;3.02.01.01;Custo dos Bens e/ou Serviços Vendidos;3.02.01;CMV;3.02;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+LUCRO BRUTO;66184985.00;45218323.00;31946351.00;3.03.01.01;LUCRO BRUTO;3.03.01;LUCRO BRUTO;3.03;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Despesas/Receitas Operacionais;-24979623.00;-16931302.00;-12184576.00;3.04.01.01;Despesas/Receitas Operacionais;3.04.01;Despesas e Receitas Operacionais;3.04;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+EBITDA;41205362.00;28287021.00;19761775.00;3.05.01.01;EBITDA;3.05.01;EBITDA;3.05;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Depreciação e Amortização;-9027770.00;-7837405.00;-6313062.00;3.06.01.01;Depreciação e Amortização;3.06.01;Depreciação e Amortização;3.06;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Resultado de Equivalência Patrimonial;92511.00;53479.00;34166.00;3.06.02.01;Resultado de Equivalência Patrimonial;3.06.02;Resultado de Equivalência Patrimonial;3.06;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Receitas Financeiras;2304091.00;3557443.00;2081827.00;3.07.01.01;Receitas Financeiras;3.07.01;Resultado Financeiro;3.07;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Despesas Financeiras;-7382742.00;-15796346.00;-8066906.00;3.07.02.01;Despesas Financeiras;3.07.02;Resultado Financeiro;3.07;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+LUCRO OPERACIONAL;27191452.00;8264192.00;7497800.00;3.08.01.01;LUCRO OPERACIONAL;3.08.01;LUCRO OPERACIONAL;3.08;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Corrente;-7573118.00;-2387038.00;-1110003.00;3.09.01.01;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Diferido;911319.00;-1222205.00;77057.00;3.09.01.02;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+LUCRO/PREJUÍZO LÍQUIDO;20529653.00;4654949.00;6464854.00;3.11.01.01;LUCRO/PREJUÍZO LÍQUIDO;3.11.01;LUCRO/PREJUÍZO LÍQUIDO;3.11;DRE;3.00;2;FOOD MEAT;22.222.222/2222-22;Alimentos
+Caixa e Equivalentes de Caixa;65409000.00;70085566.00;29627092.00;1.01.01.01;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Aplicações Financeiras;1028000.00;4005635.00;3328893.00;1.01.01.02;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Contas a Receber;21840000.00;27233885.00;11483278.00;1.01.01.03;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Estoques;24429000.00;21102768.00;17228428.00;1.01.02.01;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Tributos a Recuperar;4809000.00;2646315.00;3718722.00;1.01.04.01;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outros Ativos Circulantes;7285000.00;1731004.00;3311134.00;1.01.04.02;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Contas a Receber RLP;0.00;312452.00;349962.00;1.02.01.05;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Tributos Diferidos RLP;69067000.00;59380608.00;42004421.00;1.02.01.02;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Créditos com Partes Relacionadas RLP;0.00;4791293.00;6448928.00;1.02.01.03;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outros Ativos Não Circulantes RLP;11208000.00;14139085.00;18901468.00;1.02.01.04;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Investimentos;9771000.00;10556640.00;11277871.00;1.02.02.01;Investimentos;1.02.02;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Imobilizado;233995000.00;213835752.00;187733155.00;1.02.03.01;Imobilizado;1.02.03;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Intangível;50287000.00;48308512.00;34256976.00;1.02.04.01;Intangível;1.02.04;Ativo Não Circulante;1.02;Ativo;1.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Obrigações Sociais e Trabalhistas;4553000.00;4559584.00;3183381.00;2.01.01.01;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Fornecedores;19393000.00;17495960.00;16555739.00;2.01.03.01;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Obrigações Fiscais;13960000.00;6718851.00;3801797.00;2.01.02.01;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Empréstimos e Financiamentos;5765000.00;4602898.00;4895031.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Financiamento por Arrendamento;955000.00;1298477.00;909770.00;2.01.04.03;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Passivos com Partes Relacionadas;2192000.00;3759681.00;3950826.00;2.01.05.01;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outros;1355000.00;8053717.00;6664191.00;2.01.05.02;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Provisões;34663000.00;29348347.00;15844909.00;2.01.05.03;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;1978000.00;0.00;0.00;2.01.05.04;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Empréstimos e Financiamentos RLP;70189000.00;72187720.00;54037929.00;2.02.01.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outras Obrigações;3563000.00;8482018.00;5090207.00;2.02.02.01;Outras Obrigações;2.02.02;Passivo Não Circulante;2.02;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Imposto de Renda e Contribuição Social Diferidos;10494000.00;9197689.00;7584788.00;2.02.03.01;Tributos;2.02.03;Passivo Não Circulante;2.02;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;10962000.00;12492881.00;14011947.00;2.02.04.01;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outras Provisões;122048000.00;118945915.00;75990491.00;2.02.04.02;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Capital Social Realizado;77300000.00;77300000.00;77300000.00;2.03.01.01;Capital Social Realizado;2.03.01;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Reserva Especial de Ágio na Incorporação;3634000.00;3634539.00;3634539.00;2.03.02.04;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Ações em Tesouraria;-29190000.00;-6453345.00;-6521337.00;2.03.02.05;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Reserva Legal;14072000.00;8011592.00;6675958.00;2.03.03.01;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Reserva de Retenção de Lucros;38494000.00;9636421.00;18484410.00;2.03.03.02;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Reserva de Incentivos Fiscais;17206000.00;3426093.00;3417031.00;2.03.03.03;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Dividendo Adicional Proposto;17849000.00;15523668.00;0.00;2.03.03.04;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Ajustes de Avaliação Patrimonial;-2022000.00;-3770641.00;-3320025.00;2.03.04.03;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Ajustes Acumulados de Conversão;59937000.00;82013976.00;64165773.00;2.03.04.04;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Outros Resultados Abrangentes;-4877000.00;-3537325.00;-2356080.00;2.03.04.05;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Participação dos Acionistas Não Controladores;4655000.00;-4799201.00;-4330947.00;2.03.04.06;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Receita de Venda de Bens;293524000.00;206098000.00;144635000.00;3.01.01.01;Receita de Venda de Bens e/ou Serviços;3.01.01;RECEITA;3.01;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Custo dos Bens Vendidos;-117267000.00;-90948000.00;-76437000.00;3.02.01.01;Custo dos Bens e/ou Serviços Vendidos;3.02.01;CMV;3.02;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+LUCRO BRUTO;176257000.00;115150000.00;68198000.00;3.03.01.01;LUCRO BRUTO;3.03.01;LUCRO BRUTO;3.03;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Despesas/Receitas Operacionais;-11596000.00;-30786000.00;-38999000.00;3.04.01.01;Despesas/Receitas Operacionais;3.04.01;Despesas e Receitas Operacionais;3.04;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+EBITDA;164661000.00;84364000.00;29199000.00;3.05.01.01;EBITDA;3.05.01;EBITDA;3.05;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Depreciação e Amortização;-16379000.00;-16597000.00;-13814000.00;3.06.01.01;Depreciação e Amortização;3.06.01;Depreciação e Amortização;3.06;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Resultado de Equivalência Patrimonial;-6947000.00;-5210000.00;-2585000.00;3.06.02.01;Resultado de Equivalência Patrimonial;3.06.02;Resultado de Equivalência Patrimonial;3.06;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Receitas Financeiras;17812000.00;1570000.00;1802000.00;3.07.01.01;Receitas Financeiras;3.07.01;Resultado Financeiro;3.07;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Despesas Financeiras;0.00;-25722000.00;-15177000.00;3.07.02.01;Despesas Financeiras;3.07.02;Resultado Financeiro;3.07;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+LUCRO OPERACIONAL;159147000.00;38405000.00;-575000.00;3.08.01.01;LUCRO OPERACIONAL;3.08.01;LUCRO OPERACIONAL;3.08;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Corrente;-30079000.00;-17828000.00;-5985000.00;3.09.01.01;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Diferido;4759000.00;13201000.00;8494000.00;3.09.01.02;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Resultado Líquido de Operações Descontinuadas;-12484000.00;-8875000.00;-10631000.00;3.10.01.01;Resultado Líquido de Operações Descontinuadas;3.10.01;Operações Descontinuadas;3.10;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+LUCRO/PREJUÍZO LÍQUIDO;121343000.00;24903000.00;-8697000.00;3.11.01.01;LUCRO/PREJUÍZO LÍQUIDO;3.11.01;LUCRO/PREJUÍZO LÍQUIDO;3.11;DRE;3.00;5;MINING GROUND;55.555.555/5555-55;Mineração
+Caixa e Equivalentes de Caixa;16627698.00;17090335.00;11900666.00;1.01.01.01;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Aplicações Financeiras;1914607.00;1700028.00;14558.00;1.01.01.02;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Contas a Receber;4791634.00;4303138.00;4495525.00;1.01.01.03;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Estoques;11000346.00;7605905.00;5978557.00;1.01.02.01;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Tributos a Recuperar;2612673.00;3287142.00;4074127.00;1.01.04.01;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Despesas Antecipadas Marketing;524141.00;293552.00;512532.00;1.01.03.01;Despesas Antecipadas;1.01.03;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outros Ativos Circulantes;1156042.00;1062514.00;645172.00;1.01.04.02;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Aplicações Financeiras Avaliadas ao Custo Amortizado RLP;192877.00;213907.00;163570.00;1.02.01.07;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Tributos Diferidos RLP;4727749.00;4560808.00;2950109.00;1.02.01.02;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Despesas Antecipadas RLP;328889.00;372344.00;263577.00;1.02.01.06;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outros Ativos Não Circulantes RLP;14096111.00;11997111.00;6548556.00;1.02.01.04;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Investimentos;305180.00;337427.00;303423.00;1.02.02.01;Investimentos;1.02.02;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Imobilizado;29224261.00;24768355.00;22576299.00;1.02.03.01;Imobilizado;1.02.03;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Intangível;51100275.00;47604013.00;41316273.00;1.02.04.01;Intangível;1.02.04;Ativo Não Circulante;1.02;Ativo;1.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Obrigações Sociais;1330791.00;356689.00;397584.00;2.01.01.02;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Obrigações Trabalhistas;1108657.00;568842.00;435441.00;2.01.01.03;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Fornecedores Nacionais;13257761.00;10496372.00;8210173.00;2.01.03.02;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Fornecedores Estrangeiros;10609927.00;7685754.00;5968685.00;2.01.03.03;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Obrigações Fiscais Federais;3392805.00;2970815.00;3042943.00;2.01.02.02;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Obrigações Fiscais Estaduais;2473953.00;2472655.00;2213577.00;2.01.02.03;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Obrigações Fiscais Municipais;210202.00;273398.00;246179.00;2.01.02.04;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Empréstimos e Financiamentos;847118.00;2738773.00;653149.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Passivos com Partes Relacionadas;1210223.00;1157097.00;890717.00;2.01.05.01;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outros;4252651.00;4632657.00;2842552.00;2.01.05.02;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Provisões;172318.00;124912.00;110033.00;2.01.05.03;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Empréstimos e Financiamentos RLP;2116078.00;2053455.00;2303044.00;2.02.01.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Debêntures RLP;137328.00;0.00;106611.00;2.02.01.03;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outras Obrigações;9647315.00;11023588.00;9024181.00;2.02.02.01;Outras Obrigações;2.02.02;Passivo Não Circulante;2.02;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Imposto de Renda e Contribuição Social Diferidos;3213967.00;3043362.00;2371098.00;2.02.03.01;Tributos;2.02.03;Passivo Não Circulante;2.02;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;595570.00;443718.00;369353.00;2.02.04.01;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outras Provisões;8202.00;3368.00;1619.00;2.02.04.02;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Capital Social Realizado;58042464.00;57899073.00;57866759.00;2.03.01.01;Capital Social Realizado;2.03.01;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Ágio na Emissão de Ações;53662811.00;53662811.00;53662811.00;2.03.02.01;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Ações em Tesouraria;-98140.00;-3045.00;-68017.00;2.03.02.05;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Pagamento Baseado em Ações;1861190.00;1563439.00;1402888.00;2.03.02.06;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Resultado de Ações em Tesouraria;-939571.00;-938592.00;-887118.00;2.03.02.07;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Outras Reservas de Capital;700898.00;700898.00;700898.00;2.03.02.08;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Reserva Legal;4456.00;4456.00;4456.00;2.03.03.01;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Reserva Estatutária;18359259.00;14511147.00;10798106.00;2.03.03.06;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Reserva de Incentivos Fiscais;12827925.00;11404458.00;10071706.00;2.03.03.03;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Ajustes de Avaliação Patrimonial;-61778261.00;-64989017.00;-72274464.00;2.03.04.03;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Participação dos Acionistas Não Controladores;1374586.00;1335496.00;1277980.00;2.03.04.06;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Receita de Venda de Bens;72854344.00;58378995.00;52005120.00;3.01.01.01;Receita de Venda de Bens e/ou Serviços;3.01.01;RECEITA;3.01;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Custo dos Bens Vendidos;-35659744.00;-27066099.00;-21678159.00;3.02.01.01;Custo dos Bens e/ou Serviços Vendidos;3.02.01;CMV;3.02;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+LUCRO BRUTO;37194600.00;31312896.00;30326961.00;3.03.01.01;LUCRO BRUTO;3.03.01;LUCRO BRUTO;3.03;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Despesas/Receitas Operacionais;-14717685.00;-10173372.00;-9576851.00;3.04.01.01;Despesas/Receitas Operacionais;3.04.01;Despesas e Receitas Operacionais;3.04;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+EBITDA;22476915.00;21139524.00;20750110.00;3.05.01.01;EBITDA;3.05.01;EBITDA;3.05;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Depreciação e Amortização;-5396687.00;-5167350.00;-4675228.00;3.06.01.01;Depreciação e Amortização;3.06.01;Depreciação e Amortização;3.06;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Resultado de Equivalência Patrimonial;-115703.00;-43284.00;-22310.00;3.06.02.01;Resultado de Equivalência Patrimonial;3.06.02;Resultado de Equivalência Patrimonial;3.06;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Receitas Financeiras;2222390.00;2996019.00;1638866.00;3.07.01.01;Receitas Financeiras;3.07.01;Resultado Financeiro;3.07;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Despesas Financeiras;-5427755.00;-5430468.00;-4748433.00;3.07.02.01;Despesas Financeiras;3.07.02;Resultado Financeiro;3.07;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+LUCRO OPERACIONAL;13759160.00;13494441.00;12943005.00;3.08.01.01;LUCRO OPERACIONAL;3.08.01;LUCRO OPERACIONAL;3.08;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Corrente;-1268637.00;-1048882.00;-1118054.00;3.09.01.01;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Diferido;632059.00;-713650.00;363381.00;3.09.01.02;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+LUCRO/PREJUÍZO LÍQUIDO;13122582.00;11731909.00;12188332.00;3.11.01.01;LUCRO/PREJUÍZO LÍQUIDO;3.11.01;LUCRO/PREJUÍZO LÍQUIDO;3.11;DRE;3.00;1;FRUIT JUICE;11.111.111/1111-11;Bebidas
+Caixa e Equivalentes de Caixa;6405200.00;5208830.00;8340386.00;1.01.01.01;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Aplicações Financeiras;2017235.00;1347897.00;1390529.00;1.01.01.02;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Contas a Receber;2808514.00;1806918.00;1859505.00;1.01.01.03;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Estoques;2003394.00;1379131.00;1332244.00;1.01.02.01;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Tributos a Recuperar;401001.00;824771.00;505411.00;1.01.04.01;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Outros Ativos Circulantes;256797.00;218324.00;245869.00;1.01.04.02;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Ativos Biológicos RLP;5528050.00;4657821.00;4712381.00;1.02.01.01;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Tributos Diferidos RLP;629601.00;765099.00;0.00;1.02.01.02;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Outros Ativos Não Circulantes RLP;993379.00;1063437.00;2332652.00;1.02.01.04;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Investimentos;273436.00;268444.00;170657.00;1.02.02.01;Investimentos;1.02.02;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Imobilizado;20616716.00;17654257.00;13735580.00;1.02.03.01;Imobilizado;1.02.03;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Intangível;142384.00;75332.00;77868.00;1.02.04.01;Intangível;1.02.04;Ativo Não Circulante;1.02;Ativo;1.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Obrigações Trabalhistas;431369.00;377816.00;301288.00;2.01.01.03;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Fornecedores Nacionais;2298111.00;1720002.00;980039.00;2.01.03.02;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Fornecedores Estrangeiros;206716.00;283027.00;44217.00;2.01.03.03;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Obrigações Fiscais Federais;282381.00;165348.00;67079.00;2.01.02.02;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Empréstimos e Financiamentos;1859300.00;721021.00;1274542.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Passivos com Partes Relacionadas;0.00;0.00;5347.00;2.01.05.01;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Outros;492964.00;346258.00;432011.00;2.01.05.02;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Empréstimos e Financiamentos RLP;25783921.00;23853204.00;21539392.00;2.02.01.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Debêntures RLP;1695198.00;1764765.00;1271338.00;2.02.01.03;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Outras Obrigações;1889216.00;1602108.00;1080968.00;2.02.02.01;Outras Obrigações;2.02.02;Passivo Não Circulante;2.02;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Imposto de Renda e Contribuição Social Diferidos;0.00;0.00;1145069.00;2.02.03.01;Tributos;2.02.03;Passivo Não Circulante;2.02;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;50304.00;51951.00;60519.00;2.02.04.01;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Capital Social Realizado;4475625.00;4475625.00;4076035.00;2.03.01.01;Capital Social Realizado;2.03.01;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reserva de Capital;-343463.00;-365791.00;-350622.00;2.03.02.09;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reservas de Reavaliação;48705.00;48705.00;48705.00;2.03.02.10;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reserva Legal;0.00;0.00;184739.00;2.03.03.01;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reserva Estatutária;0.00;0.00;623010.00;2.03.03.06;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reserva de Incentivos Fiscais;0.00;0.00;238637.00;2.03.03.03;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Ações em Tesouraria;-168589.00;-177884.00;-187274.00;2.03.02.05;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Reserva de Ativos Biológicos;0.00;0.00;470658.00;2.03.03.08;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Lucros/Prejuízos Acumulados;1624044.00;-993826.00;0.00;2.03.03.07;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Ajustes de Avaliação Patrimonial;103246.00;823476.00;942994.00;2.03.04.03;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Participação dos Acionistas Não Controladores;1346659.00;574456.00;454391.00;2.03.04.06;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Receita de Venda de Bens;16481388.00;11948794.00;10271839.00;3.01.01.01;Receita de Venda de Bens e/ou Serviços;3.01.01;RECEITA;3.01;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Custo dos Bens Vendidos;-8938543.00;-7226910.00;-6851181.00;3.02.01.01;Custo dos Bens e/ou Serviços Vendidos;3.02.01;CMV;3.02;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+LUCRO BRUTO;7542845.00;4721884.00;3420658.00;3.03.01.01;LUCRO BRUTO;3.03.01;LUCRO BRUTO;3.03;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Despesas/Receitas Operacionais;-1058068.00;-375434.00;226514.00;3.04.01.01;Despesas/Receitas Operacionais;3.04.01;Despesas e Receitas Operacionais;3.04;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+EBITDA;6484777.00;4346450.00;3647172.00;3.05.01.01;EBITDA;3.05.01;EBITDA;3.05;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Depreciação e Amortização;-1003515.00;-1164807.00;-1128035.00;3.06.01.01;Depreciação e Amortização;3.06.01;Depreciação e Amortização;3.06;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Resultado de Equivalência Patrimonial;25612.00;33123.00;7237.00;3.06.02.01;Resultado de Equivalência Patrimonial;3.06.02;Resultado de Equivalência Patrimonial;3.06;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Receitas Financeiras;521175.00;964634.00;1341465.00;3.07.01.01;Receitas Financeiras;3.07.01;Resultado Financeiro;3.07;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Despesas Financeiras;-1611638.00;-7993765.00;-3003313.00;3.07.02.01;Despesas Financeiras;3.07.02;Resultado Financeiro;3.07;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+LUCRO OPERACIONAL;4416411.00;-3814365.00;864526.00;3.08.01.01;LUCRO OPERACIONAL;3.08.01;LUCRO OPERACIONAL;3.08;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Corrente;-496369.00;-446626.00;58123.00;3.09.01.01;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Diferido;-515168.00;1871501.00;-208031.00;3.09.01.02;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+LUCRO/PREJUÍZO LÍQUIDO;3404874.00;-2389490.00;714618.00;3.11.01.01;LUCRO/PREJUÍZO LÍQUIDO;3.11.01;LUCRO/PREJUÍZO LÍQUIDO;3.11;DRE;3.00;3;PAPEL PAPER;33.333.333/3333-33;Papel e Celulose
+Caixa e Equivalentes de Caixa;2566218.00;1681376.00;305746.00;1.01.01.01;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Aplicações Financeiras;1556371.00;1221779.00;4448158.00;1.01.01.02;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Contas a Receber;5650759.00;4761899.00;2915034.00;1.01.01.03;Disponível;1.01.01;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Estoques;9112214.00;5927236.00;3801763.00;1.01.02.01;Estoques;1.01.02;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Tributos a Recuperar;1514143.00;716118.00;864144.00;1.01.04.01;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Outros Ativos Circulantes;4110105.00;2490402.00;506316.00;1.01.04.02;Outros Ativos Circulantes;1.01.04;Ativo Circulante;1.01;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Contas a Receber RLP;17351.00;16140.00;16842.00;1.02.01.05;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;0.00;0.00;214.00;1.02.01.08;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Tributos Diferidos RLP;915111.00;196736.00;12712.00;1.02.01.02;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Outros Ativos Não Circulantes RLP;2926266.00;1638119.00;1718935.00;1.02.01.04;Realizavél a Longo Prazo;1.02.01;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Investimentos;407780.00;386725.00;305091.00;1.02.02.01;Investimentos;1.02.02;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Imobilizado;5301711.00;3723676.00;3350490.00;1.02.03.01;Imobilizado;1.02.03;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Intangível;4306587.00;1886997.00;1545628.00;1.02.04.01;Intangível;1.02.04;Ativo Não Circulante;1.02;Ativo;1.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Obrigações Sociais e Trabalhistas;370176.00;359721.00;354717.00;2.01.01.01;Obrigações Sociais e Trabalhistas;2.01.01;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Fornecedores;10098944.00;8501398.00;5934877.00;2.01.03.01;Fornecedores;2.01.03;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Obrigações Fiscais Federais;239595.00;401308.00;352008.00;2.01.02.02;Obrigações Fiscais;2.01.02;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Empréstimos e Financiamentos;407968.00;1667181.00;9967.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Passivos com Partes Relacionadas;125302.00;130286.00;152126.00;2.01.05.01;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Outros;4015204.00;2356251.00;1198892.00;2.01.05.02;Outros Passivos Circulantes;2.01.05;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Empréstimos e Financiamentos;6384904.00;19581.00;838862.00;2.01.04.01;Empréstimos e Financiamentos;2.01.04;Passivo Circulante;2.01;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Outras Obrigações;3968026.00;2180142.00;1951724.00;2.02.02.01;Outras Obrigações;2.02.02;Passivo Não Circulante;2.02;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Imposto de Renda e Contribuição Social Diferidos;113899.00;24843.00;39043.00;2.02.03.01;Tributos;2.02.03;Passivo Não Circulante;2.02;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1154109.00;1379935.00;1037119.00;2.02.04.01;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Lucros e Receitas a Apropriar;245258.00;301270.00;356801.00;2.02.04.03;Outros Passivos Não Circulantes;2.02.04;Passivo Não Circulante;2.02;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Capital Social Realizado;12352498.00;5952282.00;5952282.00;2.03.01.01;Capital Social Realizado;2.03.01;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Ações em Tesouraria;-1449159.00;-603681.00;-124533.00;2.03.02.05;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Reserva de Capital;-1637055.00;390644.00;323263.00;2.03.02.09;Reserva de Capital;2.03.02;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Reserva Legal;137442.00;122968.00;109001.00;2.03.03.01;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Reserva de Retenção de Lucros;1856665.00;1451923.00;1301756.00;2.03.03.02;Reserva de Lucro;2.03.03;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Outros Resultados Abrangentes;840.00;11151.00;3168.00;2.03.04.05;Outras Reservas;2.03.04;Patrimônio Líquido;2.03;Passivo;2.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Receita de Venda de Bens;35278150.00;29177113.00;19886310.00;3.01.01.01;Receita de Venda de Bens e/ou Serviços;3.01.01;RECEITA;3.01;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Custo dos Bens Vendidos;-26791345.00;-21657151.00;-14332349.00;3.02.01.01;Custo dos Bens e/ou Serviços Vendidos;3.02.01;CMV;3.02;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+LUCRO BRUTO;8486805.00;7519962.00;5553961.00;3.03.01.01;LUCRO BRUTO;3.03.01;LUCRO BRUTO;3.03;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Despesas/Receitas Operacionais;-8016203.00;-6695386.00;-4265398.00;3.04.01.01;Despesas/Receitas Operacionais;3.04.01;Despesas e Receitas Operacionais;3.04;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+EBITDA;470602.00;824576.00;1288563.00;3.05.01.01;EBITDA;3.05.01;EBITDA;3.05;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Depreciação e Amortização;-816964.00;-702523.00;-486975.00;3.06.01.01;Depreciação e Amortização;3.06.01;Depreciação e Amortização;3.06;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Resultado de Equivalência Patrimonial;99328.00;119929.00;26607.00;3.06.02.01;Resultado de Equivalência Patrimonial;3.06.02;Resultado de Equivalência Patrimonial;3.06;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Receitas Financeiras;491577.00;183368.00;674363.00;3.07.01.01;Receitas Financeiras;3.07.01;Resultado Financeiro;3.07;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Despesas Financeiras;-1180588.00;-593863.00;-744776.00;3.07.02.01;Despesas Financeiras;3.07.02;Resultado Financeiro;3.07;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+LUCRO OPERACIONAL;-218409.00;414081.00;1218150.00;3.08.01.01;LUCRO OPERACIONAL;3.08.01;LUCRO OPERACIONAL;3.08;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+Imposto de Renda e Contribuição Social sobre o Lucro;809070.00;-22372.00;-296322.00;3.09.01.03;Imposto de Renda e Contribuição Social sobre o Lucro;3.09.01;Tributos;3.09;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo
+LUCRO/PREJUÍZO LÍQUIDO;590661.00;391709.00;921828.00;3.11.01.01;LUCRO/PREJUÍZO LÍQUIDO;3.11.01;LUCRO/PREJUÍZO LÍQUIDO;3.11;DRE;3.00;4;SHOPPING VARIETY;44.444.444/4444-44;Varejo

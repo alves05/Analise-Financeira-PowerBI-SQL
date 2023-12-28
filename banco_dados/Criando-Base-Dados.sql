@@ -1,6 +1,6 @@
 ----- Criando banco de dados de produção
 
-CREATE DATABASE DEMONSTRACOES_DADOS
+CREATE DATABASE teste1
 
 ---- Criando Tabela de dados do ambiente de produção
 
@@ -25,7 +25,7 @@ Setor_empresa varchar(100)
 ---- Importando dataset pré processado em excel
 
 BULK INSERT DadosGerais
-	FROM 'D:\Cursos\1 - CIÊNCIA DE DADOS\1- Projetos Práticos\Power BI\Dashboard e Analises\3 - Análise das Demonstrações Contabéis\Dados\DatasetDFs.csv'
+	FROM 'C:\dados\base.csv'
 	WITH
 	(
 	FIRSTROW = 2,
