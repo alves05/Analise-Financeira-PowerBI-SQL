@@ -1,39 +1,55 @@
-# Case: Análise Demonstrações Financeiras com Power BI e SQL Server
-![DRE](https://user-images.githubusercontent.com/104173188/201413212-971d4c8f-9b8c-4a75-8003-e28fdc545ee6.jpg)
+# Análise de Demosntrações Contabeis com Power BI e MS SQL Server
 
-![BP](https://user-images.githubusercontent.com/104173188/201413224-6bf58532-c9d5-40a5-8fd0-09c02eb5ca1c.jpg)
+## Objetivo:
+O projeto visa criar uma solução que permita a importação, transformação e visualização eficiente de dados contábeis por meio da integração entre o Power BI e o SQL Server. A aplicação prática dessas ferramentas será direcionada para a análise das demonstrações contábeis, com ênfase no Balanços Patrimoniais, Demonstrativos de Resultados e Indicadores.
 
-![Avaliacao](https://user-images.githubusercontent.com/104173188/201413230-b5554f66-9e8a-47ac-a9eb-16b545c1c1fe.jpg)
+## Sobre o conjunto de Dados:
+Foram usadas as demonstrações contábeis dos exercícios de 2019 a 2021 de 5 empresas dos ramos de alimentos, bebidas, celulose, varejo e mineração, as demonstrações estão disponíveis ao público através do site da [B3.com.br](https://www.b3.com.br/pt_br/).
 
- ### **Link do relatório em Power BI** - [Análise Demonstrações Financeiras](https://app.powerbi.com/view?r=eyJrIjoiM2YwNGYxY2YtM2ZlNi00OWFhLWFmNDgtM2ZkNGE3YWNkNmFkIiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
- 
+## Relatório:
+>Clique na imagem abaixo para acessar o relatório.
 
+<a href='https://app.powerbi.com/reportEmbed?reportId=cf11a9b7-60d3-4ee5-9ed2-496be74995e8&autoAuth=true&ctid=c14094d0-04e3-4c6a-b134-88e51d309ffc'>
+  <img src='./img/dre.png' width=700>
+</a>
 
- ## Sobre o conjunto de Dados 
-  Conjunto de dados de demonstrações contábeis de cinco grandes empresas brasileiras. Os dados usados nesta análise estão disponíveis ao público no site da [B3](https://www.b3.com.br/pt_br/).
+## Contextualização:
 
- ## Definição do Problema de Negócio
-   Serão analisadas as demonstrações contábeis dos exercícios 2019 a 2021, das empresas AMBEV, JBS, KLABIN, MAGAZINE LUIZA e VALE.
+A empresa acionou sua equipe de dados e contabilidade para realizar uma análise detalhada das demonstrações contábeis de cinco empresas pertencentes ao grupo. O objetivo é fornecer insights estratégicos que possam orientar a tomada de decisões dos gestores e investidores. Para atender a essa demanda, as equipes se depararam com uma série de perguntas-chave que demandam uma análise profunda das informações contidas nos Balanços Patrimoniais e Demonstrações de Resultados das empresas em questão.
 
-  Objetivo da Analise:
+- **Quais são os valores das análises verticais e horizontais nas Demonstrações de Resultados e nos Balanços Patrimoniais das empresas?**
+  <p>Essas análises ajudarão a compreender a estrutura de custos, a rentabilidade e a evolução temporal dos elementos patrimoniais.</p>
 
-  * Relatar a posição econômico-financeira das empresas.
-  * Extrair informações sobre a posições passadas.
-  * Identificar se são empresas lucrativas.
+- **Qual é o faturamento acumulado nos últimos cinco anos analisados na Demonstração de Resultados de cada empresa?**
+  <p>Essa informação é crucial para avaliar a performance de vendas e identificar padrões de crescimento.</p>
 
-   O gestor financeiro de uma organização buscava avaliar o desempenho de empresas indicadas por seus superiores, salientando que a organização intenciona adquirir ações das empresas avaliadas afim de aumentar seus ganhos com os rendimentos, contudo para tal, é imprescindível a análise das demonstrações contábeis das empresas, respondendo as seguintes questões:
+- **As empresas apresentaram lucro nos anos analisados?**
+  <p>Analisar a lucratividade é fundamental para compreender a viabilidade financeira e a capacidade das empresas de gerar retorno para os investidores.</p>
 
-   1. Quais os valores das análises verticais e horizontais das Demonstrações de Resultados e dos Balanços Patrimoniais?
-   2. Qual o faturamento acumulado dos três anos analisados na DRE de cada empresa?
-   3. As empresas apresentaram lucro nos anos analisados?
-   4. Qual o EBITDA de cada empresa para cada ano?
-   5. Qual a liquidez das empresas?
-   6. Qual o endividamento das empresas?
-   7. Quais empresas apresentam o melhor Retorno sobre o Ativo, Retorno sobre o Patrimônio Líquido e Retorno sobre Vendas?
+- **Qual é o EBITDA de cada empresa para cada ano?**
+  <p>O EBITDA fornece uma visão clara da capacidade operacional e eficiência de gestão das empresas, sendo um indicador-chave para avaliação de desempenho.</p>
 
+- **Qual é a Liquidez Geral e Corrente das empresas?**
+  <p>Entender a liquidez é vital para avaliar a capacidade de pagamento das obrigações de curto prazo e a saúde financeira geral das organizações.</p>
 
+- **Qual é o nível de endividamento de curto prazo das empresas?**
+  <p>Analisar o endividamento é essencial para avaliar a sustentabilidade financeira e os riscos associados à estrutura de capital das empresas.</p>
 
-   **ATENÇÃO:**
-   
-   Está análise trata-se de um estudo que tem por finalidade apresentar a utilização de ferramentas de BI para análise de demonstrações contábeis. Não é indicação de investimento ou qualquer outro tipo de indicação.
+- **Quais empresas apresentam o melhor Retorno sobre o Patrimônio Líquido (ROE) e a MArgem de Retorno sobre as Operações?**
+  <p>Esses indicadores ajudam a avaliar a eficiência dos ativos, a rentabilidade do patrimônio líquido e a eficácia das estratégias de precificação.</p>
 
+## Processo de Resolução:
+
+### Fluxo de Trabalho do Projeto:
+
+<img src='./img/workflow-ETL.png' width=700>
+
+- [X] Extração e tratamento dos dados das demonstrações.
+- [X] Modelagem de tabela dos dados gerais no MS SQL Server.
+- [X] Modelagem do banco de dados dimensional no MS SQL Server.
+- [X] Conecção do banco de dados com o Power BI.
+- [X] Desenvolvimento do relatório.
+- [X] Deploy para a plataforma Power BI web e disponibilização para os gestores.
+
+## Conclusão:
+Com o a implementação deste projeto, obtivemos um sistema completo que permitirá aos gestores e analistas financeiros acessar, analisar e interpretar de maneira eficaz as demonstrações contábeis. A solução proporciona uma visão abrangente do desempenho financeiro das organizações que integram o grupo empresarial, facilitando a identificação de oportunidades, mitigação de riscos e a tomada de decisões estratégicas embasadas em dados concretos.
