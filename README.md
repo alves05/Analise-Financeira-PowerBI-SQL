@@ -9,7 +9,7 @@ Foram usadas as demonstrações contábeis dos exercícios de 2019 a 2021 de 5 e
 ## Relatório:
 >Clique na imagem abaixo para acessar o relatório.
 
-<a href='https://app.powerbi.com/reportEmbed?reportId=cf11a9b7-60d3-4ee5-9ed2-496be74995e8&autoAuth=true&ctid=c14094d0-04e3-4c6a-b134-88e51d309ffc'>
+<a href='https://app.powerbi.com/view?r=eyJrIjoiNmRiNzI3YzItMTNlMi00NGM4LTgyZDQtZTU0NjE3OWFiMjNjIiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9'>
   <img src='./img/dre.png' width=700>
 </a>
 
