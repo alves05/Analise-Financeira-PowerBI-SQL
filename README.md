@@ -47,7 +47,7 @@ A empresa acionou sua equipe de dados e contabilidade para realizar uma análise
 - [X] Extração e tratamento dos dados das demonstrações.
 - [X] Modelagem de tabela dos dados gerais no MS SQL Server.
 - [X] Modelagem do banco de dados dimensional no MS SQL Server.
-- [X] Conecção do banco de dados com o Power BI.
+- [X] Conexão do banco de dados com o Power BI.
 - [X] Desenvolvimento do relatório.
 - [X] Deploy para a plataforma Power BI web e disponibilização para os gestores.
 
