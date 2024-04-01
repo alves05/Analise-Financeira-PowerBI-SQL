@@ -1,5 +1,7 @@
 # Análise de Demosntrações Contabeis com Power BI e MS SQL Server
 
+### Veja a análise completa desse projeto em [Análise de Demosntrações Contabeis com Power BI e MS SQL Server](https://sites.google.com/view/portflio-wiliams-alves/in%C3%ADcio/dfc-com-power-bi?authuser=0).
+
 ## Objetivo:
 O projeto visa criar uma solução que permita a importação, transformação e visualização eficiente de dados contábeis por meio da integração entre o Power BI e o SQL Server. A aplicação prática dessas ferramentas será direcionada para a análise das demonstrações contábeis, com ênfase no Balanços Patrimoniais, Demonstrativos de Resultados e Indicadores.
 
